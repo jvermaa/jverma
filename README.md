@@ -2,9 +2,8 @@
 
 Building distributed backend systems and AI for physical and digital worlds.
 
-Incoming SWE Intern @ Apple Cash · Summer 2026  
-Prev SWE Intern @ Apple Pay · 2025  
-🎓 CS @ University of Florida · Graduating May 2026  
+- Prev SWE Intern @ Apple Pay · 2025  
+- CS @ University of Florida · Graduating May 2026  
 ---
 
 ## 💻 Backend & iOS
